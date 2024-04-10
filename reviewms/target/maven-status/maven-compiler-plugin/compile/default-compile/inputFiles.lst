@@ -1,0 +1,9 @@
+D:\reviewms\src\main\java\com\example\reviewms\review\ReviewService.java
+D:\reviewms\src\main\java\com\example\reviewms\review\ReviewController.java
+D:\reviewms\src\main\java\com\example\reviewms\review\messaging\RabbitMQConfiguration.java
+D:\reviewms\src\main\java\com\example\reviewms\review\impl\ReviewServiceImpl.java
+D:\reviewms\src\main\java\com\example\reviewms\review\Review.java
+D:\reviewms\src\main\java\com\example\reviewms\review\messaging\ReviewMessageProducer.java
+D:\reviewms\src\main\java\com\example\reviewms\review\dto\ReviewMessage.java
+D:\reviewms\src\main\java\com\example\reviewms\ReviewmsApplication.java
+D:\reviewms\src\main\java\com\example\reviewms\review\ReviewRepository.java
